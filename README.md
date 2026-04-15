@@ -15,10 +15,14 @@ I considered organizing things by category but thought a timeline organization w
 ## Timeline
 
 ### March 2026
+- [ChatPRD/tradclaw](https://github.com/ChatPRD/tradclaw) - A scaffold for turning a general-purpose assistant into a proactive household or personal operator, with modules for routines, reminders, information management, and durable support workflows. A good example of agentic knowledge work aimed at family and home operations rather than coding alone. *(2026-03-??)*
+
 
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running autonomous ML research on single-GPU nanochat training. The agent modifies training code, trains for 5 minutes, evaluates, keeps or discards the change, and repeats overnight. You write `program.md` to define the research org — "programming the program." *(2026-03-01)*
 
 ### February 2026
+- [nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent) - An open agent framework from Nous Research for tool use, task execution, and longer-running autonomous workflows. Relevant here as infrastructure for agents that can carry multi-step knowledge work instead of only answering prompts. *(2026-02-??)*
+
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - A local-first personal knowledge and memory system for AI agents, built around durable notes, search, and retrieval over your own corpus. A strong fit for agentic knowledge work because it gives agents persistent context across sessions instead of starting cold each time. *(2026-02-??)*
 
 
@@ -135,3 +139,11 @@ As the list grows, it may make sense to organize entries by:
 - Domain (engineering, research, ML, finance, legal, operations)
 - Form factor (plugin, agent framework, internal tool, product)
 - Workflow style (review, synthesis, execution, planning, monitoring)
+
+### April 2026
+- [Agentic Parenting and Homeschooling](https://www.youtube.com/watch?v=yiJOTCRVWjc) - A concrete walkthrough of using agents to support parenting and homeschool operations, including reminders, information capture, and family workflow management. Useful as a real-world applied example of agentic knowledge work in the home. *(2026-04-??)*
+
+
+### June 2026
+- [Karpathy's LLM wiki idea](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) ([tweet](https://x.com/karpathy/status/2039805659525644595)) - Andrej Karpathy's sketch of an LLM-native wiki, a durable, editable knowledge substrate where agents and humans can iteratively build, retrieve, and refine shared understanding. Strongly aligned with agentic knowledge work as memory and synthesis infrastructure. *(2026-06-??)*
+
